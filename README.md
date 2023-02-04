@@ -1,0 +1,1 @@
+* `dev.rg9.gcal.CalendarQuickstart.SCOPES` can be changed to read-only

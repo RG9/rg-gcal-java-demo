@@ -1,0 +1,7 @@
+target/
+.idea
+*.iml
+
+### Google Calendar ###
+tokens/
+credentials.json
